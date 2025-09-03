@@ -1,4 +1,4 @@
-# Intellectual Property Office - Digital Service Performance
+# Intellectual Property Office digital service performance
 
 This repository contains performance data for Intellectual Property Office digital services.
 
@@ -16,9 +16,9 @@ Additional file formats and service may be added over time.
 ## Requirements
 - Spreadsheet or data processing software
 
-## Installation Instructions
+## Installation instructions
 1. Clone this repo
 2. Open files in supported spreadsheet or data processing software
 
-## Owners & Support
+## Owners & support
 For additional guidance and support, contact the intellectual property office.
