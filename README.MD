@@ -21,4 +21,4 @@ Additional file formats and service may be added over time.
 2. Open files in supported spreadsheet or data processing software
 
 ## Owners & support
-For additional guidance and support, contact the intellectual property office.
+For additional guidance and support, contact the Intellectual Property Office.
