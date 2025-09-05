@@ -4,7 +4,7 @@ This repository contains performance data for Intellectual Property Office digit
 
 This data is updated monthly and is currently available in CSV format. 
 
-Additional file formats and service may be added over time.
+Additional file formats and services may be added over time.
 
 ## Included services
 - Record a transfer of ownership of patents
